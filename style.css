@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+}
+
+.nav1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(29, 29, 160);
+    height: 100px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-left: 300px;
+}   
+.div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    margin-right: 300px;
+}
+.nav1 button{
+    background-color: green;
+    color: white;
+    height: 40px;
+    width: 60px;
+}
+.nav1 h1{
+    color: white;
+    font-size: 50px;
+}
+.nav1 p {
+    color: white;
+}
+.nav1 img {
+    color: white;
+}
+.div-2{
+    background-color: whitesmoke;
+     align-items: center; 
+     width: 550px;
+     margin-left: 100px;
+     height: 450px;
+}
+.img-1{
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.div-2 p{
+    text-align: center;
+}
+.GET{
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 65px;
+}
+.div-3{
+    background-color: whitesmoke;
+    align-items: center;
+    width: 550px;
+    height: 450px;
+}
+.div-1{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.img-2{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.div-1 p {
+    text-align: center;
+}
+.GET-2 {
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 65px;
+}
+.h1{
+    text-align: center;
+}
